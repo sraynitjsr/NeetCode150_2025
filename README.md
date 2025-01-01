@@ -1,2 +1,1 @@
-# NeetCode150_2025
-Solving NeetCode 150 DSA Problems
+# Solving NeetCode 150 DSA Problems
